@@ -29,5 +29,4 @@ def start():
 
     create_account(short_name, author_name, author_url)
 
-
 start()
