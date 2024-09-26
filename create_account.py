@@ -22,7 +22,6 @@ def create_account(short_name, author_name, author_url):
 
 
 def start():
-    print('Hello! Put here some beutiful text.')
     short_name = input('Enter your short name:\n>>> ')
     author_name = input('Enter your author name:\n>>> ')
     author_url = input('Enter your profile link:\n>>> ')
