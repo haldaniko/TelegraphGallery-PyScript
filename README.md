@@ -7,8 +7,8 @@ uploading images to a gallery page.
 ## Installation
 
 ```
-git clone `https://github.com/haldaniko/TutorChoice-FlaskWebsite.git`
-cd TutorChoice-FlaskWebsite
+git clone `https://github.com/haldaniko/TelegraphGallery-PyScript.git`
+cd TelegraphGallery-PyScript
 
 # on macOS
 python3 -m venv venv
